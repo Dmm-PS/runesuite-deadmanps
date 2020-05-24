@@ -1,0 +1,12 @@
+# Compiled Classes
+*.class
+
+# Other
+/bin/
+/aros_data/
+*.log
+*.bat
+*.jar
+cachedir/
+data/cache/
+*.bin
